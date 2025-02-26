@@ -1,4 +1,4 @@
-## # AWS & DevOps Hands-on Tasks  
+## AWS & DevOps Hands-on Tasks  
 ### Provided by **MicroDegree Team**  
 
 Welcome to the **AWS & DevOps Hands-on Tasks**! 🚀  
